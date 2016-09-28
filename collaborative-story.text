@@ -1,0 +1,14 @@
+PCs Type:
+
+start notepad "collaborative-story.text"
+It should open up the file in your computer's text editor. Add your own portion of the story after the last sentence.
+
+When you're done, save the file. Make sure you keep it saved as a .txt file.
+
+Push Changes
+
+Now we'll push (aka add) our changes to our forked copy and then submit them to be added to the DIY original file.
+
+Return to Bash and let's check what changes we've made. Type:
+
+git status
